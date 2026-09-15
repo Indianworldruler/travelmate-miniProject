@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "393308587235",
+    "firebase_url": "https://chess-e776e-default-rtdb.firebaseio.com",
+    "project_id": "chess-e776e",
+    "storage_bucket": "chess-e776e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393308587235:android:b95d477f400a04032831d6",
+        "android_client_info": {
+          "package_name": "com.example.travelmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuFhnv0leIPXKHTD57Sa2k38IBPuYYKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
